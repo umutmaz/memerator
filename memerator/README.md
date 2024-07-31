@@ -31,3 +31,8 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+
+## Swagger documentation
+```
+Available on http://localhost:${PORT}/api
+```
